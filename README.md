@@ -1,3 +1,2 @@
 # hello-world
-A simple Hello World program in java
-edited
+Different ways to say Hello World in java.
